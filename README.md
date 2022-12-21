@@ -1,17 +1,15 @@
-<!---
-- 👋 Hi, I’m Ali Karimzade and my id is: [@ake1999](https://github.com/ake1999)
-- 💞️ I’m interested in Robotics, Reinforcement Learning, and Computer Vision.
-- 🌱 I’m currently studing the MEng in Mechanical Engineering at University of Ottowa.
-- 👀 I’m looking forward to change my MEng program to the MASc to collaborate on robotics projects.
-- 📫 [akari103@uottawa.ca](mailto:akari103@uottawa.ca)
---->
+<p align="center">
+<img alt="guilyx | Twitter" width="500px" src="./Ant_TD3.gif"/>
+</p>
+
 - 👋 Hi, there. I'm Ali.
 - :school: I'm an MEng student of Mechanical Engineering at the University of Ottawa.
-- 🌱 I’m currently learning ROS, Tensorflow, and some Reinforcement Learning algorithms.
+- 🌱 I’m currently learning ROS and Reinforcement Learning.
 - 💞️ I'm actively doing research in the fields of Reinforcement Learning, Robotics, and Computer Vision.
 - :star: I'm enthusiastic about research and collaboration on robotics projects.
 - 👀 I'm passionately looking for a supervisor to change my university program to MASc or Ph.D.
 - 📫 Contact me:
+
 <p align="center">
 <br/>
 <a href="mailto:akari103@uottawa.ca">
