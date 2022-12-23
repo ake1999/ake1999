@@ -1,5 +1,5 @@
 <p align="center">
-<img alt="guilyx | Twitter" width="500px" src="./Ant_TD3.gif"/>
+<img alt="Moving Robotic Ant" width="500px" src="./Ant_TD3.gif"/>
 </p>
 
 - 👋 Hi, there. I'm Ali.
@@ -13,10 +13,10 @@
 <p align="center">
 <br/>
 <a href="mailto:akari103@uottawa.ca">
-  <img alt="guilyx | Twitter" width="50px" src="https://cdn-icons-png.flaticon.com/128/1161/1161735.png"/>
+  <img alt="Email to me" width="50px" src="https://cdn-icons-png.flaticon.com/128/1161/1161735.png"/>
 </a>
 <a href="https://www.linkedin.com/in/ali-karimzade/">
-  <img alt="guilyx's LinkdeIN" width="50px" src="https://cdn-icons-png.flaticon.com/128/408/408703.png" />
+  <img alt="LinkdeIN" width="50px" src="https://cdn-icons-png.flaticon.com/128/408/408703.png" />
 </a>
 <br>
 </p>
