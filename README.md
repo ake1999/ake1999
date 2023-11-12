@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning ROS and Reinforcement Learning.
 - 💞️ I'm actively doing research in the fields of Reinforcement Learning, Robotics, and Computer Vision.
 - :star: I'm enthusiastic about research and collaboration on robotics projects.
-- 👀 I'm passionately looking for a supervisor to change my university program to MASc or Ph.D.
+- 👀 I'm passionately looking for a supervisor to continue my education toward MASc or Ph.D.
 - 📫 Contact me:
 
 <p align="center">
